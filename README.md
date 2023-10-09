@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matteopallagrosi&show_icons=true&locale=en&layout=compact" alt="matteopallagrosi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteopallagrosi&show_icons=true&locale=en" alt="matteopallagrosi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteopallagrosi&show_icons=true&locale=en&rank_icon=github" alt="matteopallagrosi" /></p>
