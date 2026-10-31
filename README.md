@@ -47,6 +47,6 @@ I'm also interested in distributed systems, cloud computing, and DevOps technolo
 ### Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteopallagrosi&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=matteopallagrosi&show_icons=true&locale=en&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=matteopallagrosi&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=matteopallagrosi&show_icons=true&locale=en&rank_icon=github" alt="GitHub Stats" />
 </p>
