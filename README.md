@@ -1,19 +1,23 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+
 <h1 align="center">Hi 👋, I'm Matteo Pallagrosi</h1>
-<h3 align="center">A passionate developer from Italy</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matteopallagrosi&label=Profile%20views&color=0e75b6&style=flat" alt="matteopallagrosi" /> </p>
-
-- 🔭 I’m currently attending the Master's degree course in Computer Engineering at [Università degli Studi di Roma Tor Vergata](https://ing.uniroma2.it/)
-
-- 👨‍💻 I have a bachelor's degree in Computer Engineering at [Università degli Studi di Roma Tor Vergata](https://ing.uniroma2.it/)
-
-- 📄 I'm interested in **Cybersecurity**
+<h3 align="center">Computer Engineer</h3>
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=matteopallagrosi&label=Profile%20views&color=0e75b6&style=flat" alt="matteopallagrosi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### About Me
+
+I'm a Computer Engineer with a Master's degree in Computer Engineering from [Università degli Studi di Roma Tor Vergata](https://ing.uniroma2.it/). My academic background includes a focus on **Cybersecurity**, with a strong interest in system programming, operating systems, network security, and secure software development.
+
+I'm also interested in distributed systems, cloud computing, and DevOps technologies.
+
+- 🎓 **MSc in Computer Engineering** — Università degli Studi di Roma Tor Vergata
+- 🎓 **BSc in Computer Engineering** — Università degli Studi di Roma Tor Vergata
+- 🔐 **Main interests:** Cybersecurity, Systems Programming, Network Security, Embedded & Real-Time Systems
+
+### Languages and Tools:
 
 <table align="left">
   <tr>
@@ -41,6 +45,7 @@
 <br clear="all" />
 
 ### Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteopallagrosi&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=matteopallagrosi&show_icons=true&locale=en&rank_icon=github" alt="GitHub Stats" />
