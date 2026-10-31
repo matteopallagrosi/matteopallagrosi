@@ -46,9 +46,7 @@ I'm also interested in distributed systems, cloud computing, and DevOps technolo
 
 ### Stats
 
-### Stats
-
-<p align="center">
+<p align="left">
   <a href="https://github-stats-extended.vercel.app/api?username=matteopallagrosi">
     <img
       height="200"
