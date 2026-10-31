@@ -15,7 +15,7 @@ I'm also interested in distributed systems, cloud computing, and DevOps technolo
 
 - 🎓 **MSc in Computer Engineering** — Università degli Studi di Roma Tor Vergata
 - 🎓 **BSc in Computer Engineering** — Università degli Studi di Roma Tor Vergata
-- 🔐 **Main interests:** Cybersecurity, Systems Programming, Network Security, Embedded & Real-Time Systems
+- 🔐 **Main interests:** Cybersecurity, Software Engineering, Cloud Computing, Systems Programming, IA & Machine Learning
 
 ### Languages and Tools:
 
