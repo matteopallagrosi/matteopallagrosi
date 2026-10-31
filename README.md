@@ -15,34 +15,53 @@ I'm also interested in distributed systems, cloud computing, and DevOps technolo
 
 - 🎓 **MSc in Computer Engineering** — Università degli Studi di Roma Tor Vergata
 - 🎓 **BSc in Computer Engineering** — Università degli Studi di Roma Tor Vergata
-- 🔐 **Main interests:** Cybersecurity, Software Engineering, Cloud Computing, Systems Programming, IA & Machine Learning
+- 🔐 **Main interests:** Cybersecurity, Software Engineering, Cloud Computing, Systems Programming, AI & Machine Learning
 
-### Languages and Tools:
+### Languages and Tools
 
-<table align="left">
-  <tr>
-    <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
-    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-    <td><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-    <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a></td>
-    <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a></td>
-    <td><a href="https://travis-ci.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/></a></td>
-  </tr>
-</table>
+**Programming Languages**
 
-<br clear="all" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,java,go,kotlin&perline=10" />
+</p>
+
+**Systems, Security & Networking**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash&perline=10" />
+</p>
+
+`Ghidra` · `GNS3` · `QEMU` · `VMware` · `VirtualBox` · `FRR` · `OpenVPN` · `iptables` · `Falco`
+
+`Cryptography` · `PKI` · `TLS/HTTPS` · `SSH` · `IPsec`
+
+**Cloud & DevOps**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,aws,gcp,githubactions&perline=10" />
+</p>
+
+`Docker Compose` · `AWS EC2` · `Google Cloud Compute Engine`
+
+**Data Science & Machine Learning**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&perline=10" />
+</p>
+
+`Keras` · `JupyterLab` · `NumPy` · `Pandas` · `Matplotlib`
+
+**Parallel & Distributed Computing**
+
+`MPI` · `CUDA` · `cuDNN`
+
+**Software Engineering**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,sqlite&perline=10" />
+</p>
+
+`SQL` · `UML` · `Software Testing` · `JaCoCo` · `PIT Mutation Testing` · `Jira`
 
 ### Stats
 
