@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm a Computer Engineer with a Master's degree in Computer Engineering from [Università degli Studi di Roma Tor Vergata](https://ing.uniroma2.it/). My academic background includes a focus on **Cybersecurity**, with a strong interest in system programming, operating systems, network security, and secure software development.
+I'm a Computer Engineer with a Master's degree in Computer Engineering from [Università degli Studi di Roma Tor Vergata](https://ing.uniroma2.it/). My academic background includes a focus on cybersecurity, system programming, network security, software development and cloud computing.
 
 I'm also interested in distributed systems, cloud computing, and DevOps technologies.
 
